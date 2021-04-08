@@ -1,2 +1,4 @@
-flower
+flower==0.9.3
+vine==1.3.0
+celery==4.4.7
 redis
